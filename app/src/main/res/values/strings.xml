@@ -46,4 +46,6 @@
         I guess that is it.\n
         Ah yes, I think I have a <i>mission</i> in this world but I\'m yet to find it.
     </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
 </resources>
